@@ -17,6 +17,7 @@ import it from '../renderer/src/locales/it/tray.json'
 import ja from '../renderer/src/locales/ja/tray.json'
 import ko from '../renderer/src/locales/ko/tray.json'
 import ms from '../renderer/src/locales/ms/tray.json'
+import my from '../renderer/src/locales/my/tray.json'
 import nl from '../renderer/src/locales/nl/tray.json'
 import no from '../renderer/src/locales/no/tray.json'
 import pl from '../renderer/src/locales/pl/tray.json'
@@ -33,7 +34,7 @@ import zhTW from '../renderer/src/locales/zh-TW/tray.json'
 
 const resources: Record<string, Record<string, string>> = {
   en, ar, cs, da, de, el, es, fi, fr, he, hi, hu, id, it, ja, ko,
-  ms, nl, no, pl, pt, ro, ru, sv, th, tr, uk, vi,
+  ms, my, nl, no, pl, pt, ro, ru, sv, th, tr, uk, vi,
   'zh-CN': zhCN,
   'zh-TW': zhTW
 }

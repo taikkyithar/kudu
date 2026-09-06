@@ -1,0 +1,10 @@
+{
+  "trayTooltip": "Kudu",
+  "openKudu": "Kudu ကိုဖွင့်ရန်",
+  "quit": "ထွက်ရန်",
+  "scheduledTaskNotificationTitle": "Kudu - အချိန်ဇယားသတ်မှတ်ထားသော လုပ်ငန်း",
+  "scheduledTaskNotificationBody": "\"{{name}}\" ကို လုပ်ဆောင်နေသည်...",
+  "scanCompleteNotificationTitle": "Kudu - စကင်ဖတ်ခြင်း ပြီးဆုံးပါပြီ",
+  "scanCompleteNotificationBody": "ရှင်းလင်းနိုင်သော အရာ {{itemCount}} ခု ({{sizeMB}} MB) ရှာတွေ့ပါသည်။",
+  "scheduledScanName": "အချိန်ဇယားသတ်မှတ်ထားသော စကင်ဖတ်ခြင်း"
+}

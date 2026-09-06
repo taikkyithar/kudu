@@ -1,0 +1,100 @@
+{
+  "pageTitle": "အချိန်ဇယားများ",
+  "pageDescription": "စကင်ဖတ်ခြင်း၊ ရှင်းလင်းခြင်းနှင့် အပ်ဒေတ်များကို အချိန်ဇယားအလိုက် အလိုအလျောက် လုပ်ဆောင်ပါ",
+  "newScheduleButton": "အချိန်ဇယား အသစ်",
+  "createScheduleButton": "အချိန်ဇယား ဖန်တီးရန်",
+  "emptyStateTitle": "အချိန်ဇယား မရှိသေးပါ",
+  "emptyStateDescription": "စကင်ဖတ်ခြင်း၊ ရှင်းလင်းခြင်းနှင့် အပ်ဒေတ်များကို အလိုအလျောက် လုပ်ဆောင်ရန် အချိန်ဇယားတစ်ခု ဖန်တီးပါ။",
+  "maxSchedulesReached": "အချိန်ဇယား အများဆုံး {{max}} ခု ပြည့်သွားပါပြီ။",
+  "duplicatedToast": "\"{{name}}\" ကို ပွားပြီးပါပြီ",
+  "deletedToast": "\"{{name}}\" ကို ဖျက်ပြီးပါပြီ",
+  "updatedToast": "\"{{name}}\" ကို အပ်ဒေတ်ပြီးပါပြီ",
+  "createdToast": "\"{{name}}\" ကို ဖန်တီးပြီးပါပြီ",
+  "failedEnableStartup": "စတင်ဖွင့်ချိန် ဖွင့်၍မရပါ။ ပြန်လည်စတင်ပြီးနောက် အချိန်ဇယားများ လုပ်ဆောင်မည် မဟုတ်နိုင်ပါ။",
+  "failedEnableStartupAction": "ပိုမိုလေ့လာရန်",
+  "deleteConfirmTitle": "အချိန်ဇယား ဖျက်ရန်",
+  "deleteConfirmDescription": "ဤအချိန်ဇယားကို အပြီးအပိုင် ဖယ်ရှားပါမည်။ ဤလုပ်ဆောင်ချက်ကို ပြန်ပြင်၍မရပါ။",
+  "deleteConfirmLabel": "ဖျက်ရန်",
+  "card": {
+    "autoApplyBadge": "အလိုအလျောက် အသုံးချ",
+    "editAction": "တည်းဖြတ်ရန်",
+    "duplicateAction": "ပွားရန်",
+    "deleteAction": "ဖျက်ရန်",
+    "noTasksSelected": "လုပ်ငန်း မရွေးချယ်ရသေးပါ",
+    "nextRun": "နောက်တစ်ကြိမ် - {{time}}",
+    "lastRun": "နောက်ဆုံး - {{time}}",
+    "neverRun": "မလုပ်ဆောင်ရသေးပါ"
+  },
+  "presets": {
+    "dialogTitle": "ပုံစံတစ်ခု ရွေးပါ",
+    "weeklyFullCleanLabel": "အပတ်စဉ် အပြည့်အစုံ ရှင်းလင်းခြင်း",
+    "weeklyFullCleanDescription": "တနင်္လာနေ့တိုင်း နံနက် 9 နာရီတွင် ရှင်းလင်းရေး အမျိုးအစား အားလုံး",
+    "dailyLightSweepLabel": "နေ့စဉ် ပေါ့ပါးစွာ ရှင်းလင်းခြင်း",
+    "dailyLightSweepDescription": "နေ့စဉ် နံနက် 8 နာရီတွင် စနစ်၊ browser များနှင့် Recycle Bin",
+    "monthlyDeepMaintenanceLabel": "လစဉ် အနက်ရှိုင်း ပြုပြင်ထိန်းသိမ်းမှု",
+    "monthlyDeepMaintenanceDescription": "လ၏ 1 ရက်နေ့ နံနက် 10 နာရီတွင် အပြည့်အစုံ ရှင်းလင်းခြင်း + registry၊ driver များနှင့် ဆော့ဖ်ဝဲ",
+    "customLabel": "စိတ်ကြိုက်",
+    "customDescription": "အချိန်ဇယား အလွတ်ဖြင့် အစမှ စတင်ပါ"
+  },
+  "dialog": {
+    "editTitle": "အချိန်ဇယား တည်းဖြတ်ရန်",
+    "newTitle": "အချိန်ဇယား အသစ်",
+    "nameLabel": "အမည်",
+    "namePlaceholder": "ဥပမာ - အပတ်စဉ် အနက်ရှိုင်း ရှင်းလင်းခြင်း",
+    "frequencyLabel": "အကြိမ်ရေ",
+    "frequencyDaily": "နေ့စဉ်",
+    "frequencyWeekly": "အပတ်စဉ်",
+    "frequencyMonthly": "လစဉ်",
+    "dayLabel": "ရက်",
+    "timeLabel": "အချိန်",
+    "tasksLabel": "လုပ်ငန်းများ",
+    "selectAll": "အားလုံး ရွေးရန်",
+    "deselectAll": "အားလုံး ရွေးချယ်မှုဖြုတ်ရန်",
+    "cleanerGroup": "ရှင်းလင်းရေးကိရိယာ",
+    "maintenanceGroup": "ပြုပြင်ထိန်းသိမ်းမှု",
+    "autoApplyLabel": "အလိုအလျောက် အသုံးချ",
+    "autoApplyDescription": "အတည်ပြုချက် မလိုဘဲ ဖိုင်များကို အလိုအလျောက် ရှင်းလင်းပြီး registry ပြဿနာများကို ပြင်ဆင်ကာ အပ်ဒေတ်များကို ထည့်သွင်းပါ။",
+    "autoApplyWarning": "လုပ်ဆောင်ချက်များသည် အချိန်ဇယားအလိုက် အလိုအလျောက် လုပ်ဆောင်ပါမည်။ သင့်ချန်လှပ်စာရင်း နောက်ဆုံးအခြေအနေ ဖြစ်ကြောင်း သေချာပါစေ။",
+    "cancelButton": "မလုပ်တော့ပါ",
+    "saveChangesButton": "ပြောင်းလဲမှုများ သိမ်းရန်",
+    "createScheduleButton": "အချိန်ဇယား ဖန်တီးရန်"
+  },
+  "tasks": {
+    "system": "စနစ်",
+    "browsers": "Browser များ",
+    "applications": "အက်ပ်များ",
+    "gaming": "ဂိမ်း",
+    "recycleBin": "Recycle Bin",
+    "databases": "ဒေတာဘေ့စ်များ",
+    "registryFixes": "Registry ပြင်ဆင်ချက်များ",
+    "driverUpdates": "Driver အပ်ဒေတ်များ",
+    "softwareUpdates": "ဆော့ဖ်ဝဲ အပ်ဒေတ်များ"
+  },
+  "dayNames": {
+    "sunday": "တနင်္ဂနွေ",
+    "monday": "တနင်္လာ",
+    "tuesday": "အင်္ဂါ",
+    "wednesday": "ဗုဒ္ဓဟူး",
+    "thursday": "ကြာသပတေး",
+    "friday": "သောကြာ",
+    "saturday": "စနေ"
+  },
+  "frequency": {
+    "everyDayAt": "နေ့စဉ် {{time}} တွင်",
+    "everyWeekdayAt": "{{day}} နေ့တိုင်း {{time}} တွင်",
+    "monthlyAt": "လတိုင်း {{ordinalDay}} ရက်နေ့ {{time}} တွင်"
+  },
+  "nextRun": {
+    "todayAt": "ယနေ့ {{time}} တွင်",
+    "tomorrowAt": "မနက်ဖြန် {{time}} တွင်",
+    "inDaysAt": "{{count}} ရက်အတွင်း {{time}} တွင်",
+    "dateAt": "{{date}} {{time}} တွင်"
+  },
+  "lastRun": {
+    "justNow": "ယခုလေးတင်",
+    "minutesAgo": "{{count}} မိနစ်က",
+    "hoursAgo": "{{count}} နာရီက",
+    "daysAgo": "{{count}} ရက်က"
+  },
+  "copyNameSuffix": "(မိတ္တူ)"
+}

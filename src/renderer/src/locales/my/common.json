@@ -1,0 +1,18 @@
+{
+  "scanning": "စကင်ဖတ်နေသည်...",
+  "cleaning": "ရှင်းလင်းနေသည်...",
+  "foundLabel": "ရှာတွေ့သည်:",
+  "itemsUnit": "ခု",
+  "sizeLabel": "အရွယ်အစား:",
+  "health": "စနစ်အခြေအနေ",
+  "cancel": "မလုပ်တော့ပါ",
+  "confirm": "အတည်ပြုရန်",
+  "adminBannerMessage": "အချို့လုပ်ဆောင်ချက်များအတွက် စီမံခန့်ခွဲသူ အခွင့်အရေး လိုအပ်ပါသည်။",
+  "relaunchAsAdmin": "စီမံခန့်ခွဲသူအနေဖြင့် ပြန်ဖွင့်ရန်",
+  "justNow": "ယခုလေးတင်",
+  "minutesAgo": "{{minutes}} မိနစ်က",
+  "hoursAgo": "{{hours}} နာရီက",
+  "daysAgo": "{{days}} ရက်က",
+  "zeroBytes": "0 B",
+  "zeroSpeed": "0 B/s"
+}

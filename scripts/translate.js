@@ -53,7 +53,8 @@ const TARGET_LANGUAGES = {
   ro: 'Romanian',
   el: 'Greek',
   he: 'Hebrew',
-  hu: 'Hungarian'
+  hu: 'Hungarian',
+  my: 'Burmese'
 }
 
 // ─── CLI Arguments ──────────────────────────────────────────

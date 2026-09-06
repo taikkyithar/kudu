@@ -1,0 +1,77 @@
+{
+  "pageTitle": "Context Menu ရှင်းလင်းရေးကိရိယာ",
+  "pageDescription": "installer များ (7-Zip၊ OneDrive၊ Notepad++ စသည်) ချန်ထားခဲ့သော right-click menu မှတ်တမ်းများကို စီမံပါ။ ၎င်းတို့ကို ပိတ်ပါ၊ ပြန်ဖွင့်ပါ သို့မဟုတ် ဖယ်ရှားပါ။",
+  "pageHeaderUnavailableTitle": "Context Menu ရှင်းလင်းရေးကိရိယာ",
+  "pageHeaderUnavailableDescription": "ဤကိရိယာကို Windows တွင်သာ ရရှိနိုင်ပါသည်။",
+  "notAvailableTitle": "Windows သက်သက် လုပ်ဆောင်ချက်",
+  "notAvailableDescription": "Context menu စီမံခန့်ခွဲမှုသည် Windows registry ကို အသုံးပြုသောကြောင့် macOS သို့မဟုတ် Linux တွင် မရရှိနိုင်ပါ။",
+
+  "scanButton": "စကင်ဖတ်ရန်",
+  "cancelButton": "မလုပ်တော့ပါ",
+  "rescanButton": "ထပ်မံ စကင်ဖတ်ရန်",
+  "scanningLabel": "Context menu မှတ်တမ်းများကို စကင်ဖတ်နေသည်…",
+
+  "emptyStateTitle": "သင့် right-click menu ကို စကင်ဖတ်ပါ",
+  "emptyStateDescription": "ထည့်သွင်းထားသော အက်ပ်များ ထည့်ခဲ့သည့် context menu မှတ်တမ်းများကို ရှာဖွေပြီး မည်သည့်ခုများကို ထားရှိမည်ကို ရွေးချယ်ပါ။",
+  "noResultsTitle": "မှတ်တမ်းများ မတွေ့ပါ",
+  "noResultsDescription": "စစ်ထုတ်မှုများကို ပြင်ဆင်ကြည့်ပါ သို့မဟုတ် ထပ်မံ စကင်ဖတ်ရန် ကလစ်နှိပ်ပါ။",
+
+  "win11NoticeTitle": "Windows 11 မှတ်ချက်",
+  "win11NoticeBody": "Windows 11 တွင် ရိုးရာ right-click မှတ်တမ်းများသည် \"Show more options\" အောက်တွင် ပေါ်ပါသည် (သို့မဟုတ် Shift+F10 နှိပ်ပါ)။",
+  "win11NoticeDismiss": "နားလည်ပါပြီ",
+
+  "filterSearchPlaceholder": "အမည်၊ command သို့မဟုတ် DLL ဖြင့် ရှာရန်…",
+  "filterScopeAll": "နယ်ပယ် အားလုံး",
+  "filterSourceAll": "ရင်းမြစ် အားလုံး",
+  "filterStatusAll": "အားလုံး",
+  "filterStatusEnabled": "ဖွင့်ထားသည်",
+  "filterStatusDisabled": "ပိတ်ထားသည်",
+
+  "scopeAllFiles": "ဖိုင် အားလုံး",
+  "scopeDirectory": "ဖိုဒါများ",
+  "scopeDirectoryBackground": "ဖိုဒါ နောက်ခံ",
+  "scopeFolder": "ဖိုဒါ shell",
+  "scopeDrive": "Drive များ",
+  "scopeAllFilesystemObjects": "ဖိုင်စနစ် အရာ အားလုံး",
+  "scopeProgID": "ဖိုင်အမျိုးအစား",
+
+  "kindVerb": "Verb",
+  "kindHandler": "Handler",
+
+  "statusEnabled": "ဖွင့်ထားသည်",
+  "statusDisabled": "ပိတ်ထားသည်",
+  "protectedBadge": "ကာကွယ်ထားသည်",
+  "protectedTooltip": "ဤမှတ်တမ်းသည် Windows သို့မဟုတ် အရေးကြီး အက်ပ်တစ်ခု၏ အစိတ်အပိုင်းဖြစ်ပြီး ပြောင်းလဲ၍မရပါ။",
+  "adminBadge": "စီမံခန့်ခွဲသူ",
+  "adminTooltip": "ဤမှတ်တမ်းကို ပြောင်းလဲရန် စီမံခန့်ခွဲသူ အခွင့်အရေး လိုအပ်ပါသည်။",
+
+  "actionDisable": "ပိတ်ရန်",
+  "actionEnable": "ဖွင့်ရန်",
+  "actionDelete": "ဖျက်ရန်",
+  "selectedCount": "{{count}} ခု ရွေးချယ်ထားသည်",
+  "disableSelected": "ရွေးချယ်ထားသောများ ပိတ်ရန်",
+  "enableSelected": "ရွေးချယ်ထားသောများ ဖွင့်ရန်",
+  "deleteSelected": "ရွေးချယ်ထားသောများ ဖျက်ရန်",
+
+  "confirmDeleteTitle": "Context menu မှတ်တမ်းများကို ဖျက်မလား?",
+  "confirmDeleteDescription": "မှတ်တမ်း {{count}} ခုကို အပြီးအပိုင် ဖယ်ရှားပါမည်။ registry အရန်ကူးကို ပြန်သွင်းခြင်း သို့မဟုတ် မူလအက်ပ်ကို ပြန်ထည့်သွင်းခြင်းဖြင့်သာ ဤပြောင်းလဲမှုကို ပြန်ပြင်နိုင်ပါသည်။",
+  "confirmDeleteDescriptionPlural": "မှတ်တမ်း {{count}} ခုကို အပြီးအပိုင် ဖယ်ရှားပါမည်။ registry အရန်ကူးကို ပြန်သွင်းခြင်း သို့မဟုတ် မူလအက်ပ်များကို ပြန်ထည့်သွင်းခြင်းဖြင့်သာ ဤပြောင်းလဲမှုကို ပြန်ပြင်နိုင်ပါသည်။",
+  "confirmDeleteLabel": "ဖျက်ရန်",
+  "createRestorePointFirst": "စနစ် restore point ကို အရင် ဖန်တီးရန်",
+
+  "applyingTitle": "ပြောင်းလဲမှုများ အသုံးချနေသည်…",
+  "applyDoneSuccess": "မှတ်တမ်း {{count}} ခု အပ်ဒေတ်ပြီးပါပြီ။",
+  "applyDoneSuccessPlural": "မှတ်တမ်း {{count}} ခု အပ်ဒေတ်ပြီးပါပြီ။",
+  "applyDoneFailureCount": "{{count}} ခု မအောင်မြင်ပါ",
+  "applyShowFailures": "အသေးစိတ် ပြရန်",
+  "applyHideFailures": "အသေးစိတ် ဖွက်ရန်",
+
+  "toastScanFailed": "စကင်ဖတ်ခြင်း မအောင်မြင်ပါ",
+  "toastScanFailedDescription": "Context menu မှတ်တမ်းများကို စာရင်းပြုစု၍မရပါ။",
+  "toastApplyFailed": "လုပ်ဆောင်ချက် မအောင်မြင်ပါ",
+  "toastApplyFailedDescription": "တောင်းဆိုထားသော ပြောင်းလဲမှုများကို အသုံးချ၍မရပါ။",
+
+  "groupHeading": "{{source}} — {{count}}",
+  "elevationPrompt": "ရွေးချယ်ထားသော အချို့မှတ်တမ်းများအတွက် စီမံခန့်ခွဲသူ အခွင့်အရေး လိုအပ်ပါသည်။ စီမံခန့်ခွဲသူအနေဖြင့် ပြန်ဖွင့်မလား?",
+  "elevationRelaunch": "စီမံခန့်ခွဲသူအနေဖြင့် ပြန်ဖွင့်ရန်"
+}

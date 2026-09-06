@@ -93,9 +93,9 @@ Kudu's desktop tools are **free, open-source, and transparent**. No ads, bundled
 
 ## Languages
 
-Kudu is available in 30 languages:
+Kudu is available in 31 languages:
 
-English, Spanish, French, German, Portuguese, Italian, Japanese, Korean, Chinese (Simplified), Chinese (Traditional), Russian, Arabic, Hindi, Turkish, Dutch, Polish, Swedish, Norwegian, Danish, Finnish, Czech, Thai, Vietnamese, Indonesian, Malay, Ukrainian, Romanian, Greek, Hebrew, Hungarian
+English, Spanish, French, German, Portuguese, Italian, Japanese, Korean, Chinese (Simplified), Chinese (Traditional), Russian, Arabic, Hindi, Turkish, Dutch, Polish, Swedish, Norwegian, Danish, Finnish, Czech, Thai, Vietnamese, Indonesian, Malay, Ukrainian, Romanian, Greek, Hebrew, Hungarian, Burmese
 
 ## Disclaimer
 

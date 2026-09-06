@@ -28,7 +28,8 @@ export const LANGUAGES = [
   { code: 'ro', name: 'Romanian', nativeName: 'Română' },
   { code: 'el', name: 'Greek', nativeName: 'Ελληνικά' },
   { code: 'he', name: 'Hebrew', nativeName: 'עברית' },
-  { code: 'hu', name: 'Hungarian', nativeName: 'Magyar' }
+  { code: 'hu', name: 'Hungarian', nativeName: 'Magyar' },
+  { code: 'my', name: 'Burmese', nativeName: 'မြန်မာ' }
 ] as const
 
 export type LanguageCode = (typeof LANGUAGES)[number]['code']
